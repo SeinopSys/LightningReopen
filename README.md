@@ -10,4 +10,6 @@ That's right, this extension literally has no way to access any of your personal
 
 <p align="center"><a href="https://chrome.google.com/webstore/detail/ahphokgmcecbjeipkfkamcdmemghkaph/"><img src="https://developer.chrome.com/webstore/images/ChromeWebStore_BadgeWBorder_v2_340x96.png" alt="Download Lightning Reopen from the Chrome Web Store"></a></p>
 
+<p align="center"><a href="https://chrome.google.com/webstore/detail/ahphokgmcecbjeipkfkamcdmemghkaph/"><img alt="Download YTMySubs from the Chrome Web Store" src="https://img.shields.io/chrome-web-store/v/ahphokgmcecbjeipkfkamcdmemghkaph"></a></p>
+
 
